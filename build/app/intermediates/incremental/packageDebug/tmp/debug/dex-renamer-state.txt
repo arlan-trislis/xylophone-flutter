@@ -1,0 +1,4 @@
+#Sun May 10 16:46:07 WIB 2020
+base.0=/home/arlan/Documents/courses/appbrewery-courses/section-9/xylophone/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
